@@ -1,0 +1,10 @@
+body{
+    background:white url("images/k.png");
+}
+.navbar{
+    border-radius: 0;
+    margin-top: -20px;
+}
+.navbar-brand{
+    font-family: 'Satisfy',cursive;
+}
